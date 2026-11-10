@@ -4,7 +4,8 @@ End-to-end data analytics portfolio project exploring the UCI Adult Autism Scree
 
 ## Project Overview
 
-This project presents an exploratory data analysis of the Adult Autism Screening dataset obtained from the UCI Machine Learning Repository. The analysis examines participant characteristics, screening scores, classification outcomes and data quality issues to identify patterns and relationships within the dataset.
+This project presents an exploratory data analysis of the Adult Autism Screening dataset obtained from the UCI Machine Learning Repository. The analysis examines participant characteristics, screening scores, classification outcomes and data quality issues to identify patterns and relationships within the dataset.Attach files by dragging & dropping, selecting or pasting them.
+
 
 The project follows an end-to-end data analytics workflow, beginning with data preparation and cleaning, followed by SQL-based analysis, Python exploration and visualisation, and the development of an interactive Power BI dashboard.
 
@@ -86,6 +87,12 @@ The findings revealed differences in screening score averages between the record
 Overall, the project strengthened practical experience in data cleaning, SQL querying, exploratory data analysis, data visualisation and communicating insights.
 
 **Important limitation:** The dataset contains autism screening information. The classifications and relationships explored in this project are not clinical diagnoses, and the analysis should not be used to make medical conclusions about individuals.
+## Python Analysis Notebook
+
+The Python analysis was conducted using Google Colab. The notebook contains the data preparation, exploratory data analysis, statistical findings, Python code and visualisations.
+
+**View the interactive Python notebook:**
+https://colab.research.google.com/drive/1_VdOHLrY4QrAeKn1GYd9CswJ42nj5Ax_?usp=sharing
 
 ## Project Author
 
